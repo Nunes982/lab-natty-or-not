@@ -20,23 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprenda a tocar Guitarra
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Tudo que você precisa saber para começar no mundo da musica
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+NightCafé
+Power Point
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conteudo gerado pelo chatGPT, imagem gerado no site NigthCafé.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Projeto realizado como desafio de projeto da DIO.me
 
 ### Exemplos e Insigths
 
